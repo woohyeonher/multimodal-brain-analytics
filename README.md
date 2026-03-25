@@ -1,4 +1,4 @@
-# Multimodal Deep Canonical Correlation Analysis with Deep Embedded Clustering (CCA-DEC)
+# Multimodal Deep Canonical Correlation Analysis with Deep Embedded Clustering (DCCA-DEC)
 
 ## 📌 Project Overview
 This project implements a deep learning framework to jointly analyze **resting-state fMRI brain connectivity** and **behavioral/cognitive measures** from the ABCD Study. It utilizes **Deep Canonical Correlation Analysis (DCCA)** to learn correlated latent representations across the two modalities, followed by **Deep Embedded Clustering (DEC)** to identify distinct neurological subgroups without labeled data.
